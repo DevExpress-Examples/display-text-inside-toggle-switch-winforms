@@ -3,19 +3,22 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E4965)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
+
+# WinForms ToggleSwitch - Display text inside the editor
+
+This example creates a custom toggle switch control that displays text within its content:
+
+![WinForms ToggleSwitch - Display text inside the editor](https://raw.githubusercontent.com/DevExpress-Examples/how-to-place-text-inside-toggleswitch-e4965/13.2.5%2B/media/winforms-custom-toggle-switch.png)
+
+> **Note**
+>
+> You can also use a [toggle button](https://docs.devexpress.com/WindowsForms/404077/ui-templates/buttons/toggle-button) shipped as part of [DevExpress WinForms UI Templates](https://docs.devexpress.com/WindowsForms/404061/ui-templates).
+>
+>  DevExpress WinForms UI Templates﻿ include predesigned and ready-to-use UI components and forms (C# and Visual Studio 2022 only).
+
+
+## Files to Review
 
 * [CustomToggleSwitch.cs](./CS/WindowsFormsApplication1/CustomToggleSwitch.cs) (VB: [CustomToggleSwitchPainter.vb](./VB/WindowsFormsApplication1/CustomToggleSwitchPainter.vb))
 * [CustomToggleSwitchPainter.cs](./CS/WindowsFormsApplication1/CustomToggleSwitchPainter.cs) (VB: [CustomToggleSwitchPainter.vb](./VB/WindowsFormsApplication1/CustomToggleSwitchPainter.vb))
 * [Form1.cs](./CS/WindowsFormsApplication1/Form1.cs) (VB: [Form1.vb](./VB/WindowsFormsApplication1/Form1.vb))
-* [Program.cs](./CS/WindowsFormsApplication1/Program.cs) (VB: [Program.vb](./VB/WindowsFormsApplication1/Program.vb))
-<!-- default file list end -->
-# How to place text inside ToggleSwitch
-
-
-<p>This example demonstrates how to locate a text inside the ToggleSwitch control instead of being located at the side.</p>
-
-<br/>
-
-
