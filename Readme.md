@@ -9,7 +9,7 @@
 
 This example creates a custom toggle switch control that displays text within its content:
 
-![WinForms ToggleSwitch - Display text inside the editor](https://raw.githubusercontent.com/DevExpress-Examples/how-to-place-text-inside-toggleswitch-e4965/13.2.5%2B/media/winforms-custom-toggle-switch.png)
+![WinForms ToggleSwitch - Display text inside the editor](media/winforms-custom-toggle-switch.png)
 
 > **Note**
 >
