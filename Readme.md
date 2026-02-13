@@ -24,7 +24,7 @@ This example creates a custom toggle switch control that displays text within it
 * [CustomToggleSwitchPainter.cs](./CS/WindowsFormsApplication1/CustomToggleSwitchPainter.cs) (VB: [CustomToggleSwitchPainter.vb](./VB/WindowsFormsApplication1/CustomToggleSwitchPainter.vb))
 * [Form1.cs](./CS/WindowsFormsApplication1/Form1.cs) (VB: [Form1.vb](./VB/WindowsFormsApplication1/Form1.vb))
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=display-text-inside-toggle-switch-winforms&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=display-text-inside-toggle-switch-winforms&~~~was_helpful=no)
 
